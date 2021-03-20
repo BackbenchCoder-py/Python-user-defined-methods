@@ -1,5 +1,5 @@
 #Program to check whether a number is Armstrong or not
-#With argument but without a return value. (3rd Method)
+#With argument and with a return value. (4th Method)
 
 def IsArm(x): #Function Declaration | suppose, x = 153
     #Function Definition [Starts]
